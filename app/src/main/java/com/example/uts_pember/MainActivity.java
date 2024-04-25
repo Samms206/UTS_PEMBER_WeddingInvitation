@@ -2,6 +2,7 @@ package com.example.uts_pember;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.view.animation.AlphaAnimation;
@@ -28,5 +29,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void gotoWedding(View view) {
+        Intent intent = new Intent(this, DashboardActivity.class);
+        startActivity(intent);
     }
 }
