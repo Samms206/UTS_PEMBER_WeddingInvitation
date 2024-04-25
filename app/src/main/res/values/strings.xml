@@ -1,8 +1,19 @@
 <resources>
     <string name="app_name">UTS_PEMBER</string>
     <string name="title">THE WEDDING OF</string>
+    <string name="nama_pr">Siti Khoirun Lisa</string>
+    <string name="igPr">stlisa_me</string>
+    <string name="nama_lk">Moh. Sholehuddin</string>
+    <string name="igLk">moh.sholeh</string>
+    
+    <string name="putri">Putri bungsu dari</string>
+    <string name="isiPutri">Bapak Sanusi S.M \u0026\nIbu Jubaedah\ndari Surabaya Utara</string>
+
+    <string name="putra">Putra dari</string>
+    <string name="isiPutra">Bapak Akbar S.Kom \u0026\nIbu Kholifah\ndari Probolinggo</string>
+
     <string name="weddingOf">
-        SHOLEHUDDIN \u0026 SITI KHOIRUN LISA
+        MOH. SHOLEHUDDIN \u0026 SITI KHOIRUN LISA
     </string>
     <string name="dateOf">Sabtu, 11 Oktober 2023</string>
     <string name="open">BUKA UNDANGAN</string>
@@ -13,4 +24,15 @@
         Artinya: “Dan di antara tanda-tanda kekuasaan-Nya ialah Dia menciptakan untukmu isteri-isteri dari jenismu sendiri, supaya kamu cenderung dan merasa tenteram kepadanya, dan dijadikan-Nya diantaramu rasa kasih dan sayang. Sesungguhnya pada yang demikian itu benar-benar terdapat tanda-tanda bagi kaum yang berfikir.” (QS. Ar-Rum: 21)
     </string>
 
+    <string name="akad">
+        Jumat, 28 April 2023
+        \npukul 09:00 WIB - selesai
+        \nPlataran Menteng, Jalan HOS. Cokroaminoto, RT.6/RW.4, Gondangdia, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta, Indonesia
+    </string>
+
+    <string name="resepsi">
+        Jumat, 15 Maret 2024
+        \npukul 15:00 WIB - selesai
+        \nDoubleTree by Hilton Jakarta - Diponegoro Jakarta Pusat
+    </string>
 </resources>
