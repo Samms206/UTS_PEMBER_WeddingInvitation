@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTS_PEMBER</string>
+    <string name="title">THE WEDDING OF</string>
+    <string name="weddingOf">
+        SHOLEHUDDIN \u0026 SITI KHOIRUN LISA
+    </string>
+    <string name="dateOf">Sabtu, 11 Oktober 2023</string>
+    <string name="open">BUKA UNDANGAN</string>
+
+</resources>
