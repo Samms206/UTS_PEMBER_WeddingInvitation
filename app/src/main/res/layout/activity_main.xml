@@ -11,7 +11,7 @@
     <ImageView
         android:layout_width="220dp"
         android:layout_height="288dp"
-        android:src="@drawable/component"
+        android:src="@drawable/daunbg"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
